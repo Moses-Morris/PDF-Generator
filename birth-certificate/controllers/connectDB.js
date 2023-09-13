@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const Newborn = require('../models/newbornDB.js');
 
 //Create Password 3PZQt6dU82vab4fD
-mongoose.connect('mongodb+srv://mosesmorrisdev:3PZQt6dU82vab4fD@cluster0.g9ef0dd.mongodb.net/?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('mongodb+srv://mosesmorrisdev:3PZ82vab4fD@cluster0.g9ef0dd.mongodb.net/?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
 
 
 //Create a new user

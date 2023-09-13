@@ -10,8 +10,8 @@ const customValidator  = require('./validators/newbornValidator');
 const Newborn = require('../models/newbornDB.js');
 //connect with mongoose
 const mongoose = require('mongoose');
-//Create Password 3PZQt6dU82vab4fD
-mongoose.connect('mongodb+srv://mosesmorrisdev:3PZQt6dU82vab4fD@cluster0.g9ef0dd.mongodb.net/?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
+//Create Password 0Ky8KdrsJc7KLFb8
+mongoose.connect('mongodb+srv://mosesmorrisdev:0Ky8KdrsJc7KLFb8@cluster0.g9ef0dd.mongodb.net/?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
 
 
 
