@@ -3,6 +3,8 @@ const PORT = process.env.PORT || 5000;
 
 const app = express();
 app.set('view engine', 'ejs');
+app.use(express.urlencoded({ extended: false }));
+app.use(express.json());
 
 const newBornRouter = require('./routes/newborn');
 const  LReg_router = require('./routes/lateReg');
