@@ -1,2 +1,2 @@
 # PDF-Generator
-Generating PDFs using PDFKit. Generate ID'S, INVOICES, RECIPTS and many More.
+Generating PDFs using PDFKit. Generate IDs, INVOICES, RECEIPTS, and many More.
